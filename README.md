@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 About Me  
-I am a third-year bachelor's degree data science student at Vilnius University, and I have over three years of experience as a private tutor in mathematics and physics. My journey in STEM began during school, where I actively participated in and won multiple math and physics olympiads, including competing at the national level.  Seeking a Data Science practice to apply theoretical knowledge and develop practical skills in a professional environment. 
+I am a fourth-year bachelor's degree data science student at Vilnius University, and I have over four years of experience as a private tutor in mathematics and physics. My journey in STEM began during school, where I actively participated in and won multiple math and physics olympiads, including competing at the national level.  Seeking a Data Science practice to apply theoretical knowledge and develop practical skills in a professional environment. 
 
 ---
 
